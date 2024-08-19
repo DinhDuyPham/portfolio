@@ -79,7 +79,7 @@ function Overview() {
                                 3000,
                             ]
                         }
-                        duration={profile?.overViewDurationAnimate || 3000}
+                        duration={overViewDurationAnimate || 3000}
                         speed={50}
                         repeat={Infinity}
                         wrapper='span'
