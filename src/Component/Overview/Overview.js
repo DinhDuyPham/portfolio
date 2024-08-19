@@ -100,7 +100,7 @@ function Overview() {
                     <a
                         href={
                             profile?.CV ||
-                            'https://res.cloudinary.com/djvvuylii/image/upload/v1723226109/portfolio/sopgdyaoyjv7skufd93d.jpg'
+                            'https://firebasestorage.googleapis.com/v0/b/portfolio-b00e7.appspot.com/o/PhamDinhDuy_CV.pdf?alt=media&token=869cf5a4-f2b4-4b08-a52e-28b5b871202f'
                         }
                         download='PhamDinhDuy_CV.pdf'
                         target='_blank'
